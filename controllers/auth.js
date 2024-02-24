@@ -44,6 +44,10 @@ export const register = async (req, res) => {
   }
 };
 
+export const check = async (req, res) => {
+  res.send("I am Check");
+};
+
 /* LOGGING IN */
 export const login = async (req, res) => {
   try {
