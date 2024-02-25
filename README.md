@@ -55,8 +55,8 @@ https://tb-1.onrender.com/users/:name/posts
 12. `updatedAt`: The timestamp indicating when the post was last updated.
 13. `__v`: A version key, which might be used by the database to track document versions.
 
-![Screenshot 2024-02-25 162032](https://github.com/Tarun0008/NovaConnect-Backend/assets/143323486/d70fc443-211f-462e-86d1-2b47f7688155)
 ![Screenshot 2024-02-25 162032](https://github.com/Tarun0008/NovaConnect-Backend/assets/143323486/067b4b07-fe8e-474e-993a-b7dc2cc2cccf)
+![Screenshot 2024-02-25 162020](https://github.com/Tarun0008/NovaConnect-Backend/assets/143323486/38a3bf4f-acec-4c96-8fb9-77f5e3a58175)
 
 ![Screenshot 2024-02-25 162042](https://github.com/Tarun0008/NovaConnect-Backend/assets/143323486/9245c56a-bba7-4d09-b995-b0f528c78166)
 ![Screenshot 2024-02-25 162057](https://github.com/Tarun0008/NovaConnect-Backend/assets/143323486/a80c1b55-1297-4b63-a614-6763b6852305)
